@@ -1,0 +1,16 @@
+[
+	{
+		"id": "1",
+		"title": "Alien",
+		"director": "James Cameron",
+		"year": "1996",
+		"rating": "8.5"
+	},
+	{
+		"id": "2",
+		"title": "the dark night",
+		"director": "James Cameron",
+		"year": "1997",
+		"rating": "8.0"
+	}
+]
